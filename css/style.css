@@ -1,1 +1,30 @@
 /* add CSS class and element and selectors here */
+
+p {color:blue;}
+
+
+.example {
+  color: cyan;
+  font-size:44px;
+  font-style: oblique;
+}
+
+    body {
+      background-color:red;
+      font-size: 150%;
+    }
+    
+ .myClass {
+      background-color: gray;
+      color: blue
+    } 
+
+h3 {font-size: 300%;}
+
+
+
+
+
+
+
+'
